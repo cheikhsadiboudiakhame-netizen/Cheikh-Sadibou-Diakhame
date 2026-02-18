@@ -1,13 +1,13 @@
 import streamlit as st
-st.title("Mon porfoliot")
+st.title("Mon porforiot")
 sidebar=st.sidebar
 with sidebar:
 
     st.write("Cheikh Sadibou")
     st.write(" DIAKHAME")
-    st.write("Adresse:Parcelles Assainies Dakar unité 14")
-    st.write("Téléphone:784527100")
-    st.write("Contact:cheikhsadiboudiakhame@gmail.com")
+    st.write("Adresse📍:Parcelles Assainies Dakar unité 14")
+    st.write("Téléphone📞:784527100")
+    st.write("Contact📩:cheikhsadiboudiakhame@gmail.com")
 
 ########################################
 
