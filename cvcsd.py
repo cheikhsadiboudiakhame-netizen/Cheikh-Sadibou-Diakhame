@@ -31,7 +31,7 @@ st.write("Baccalauréat")
 
 #########################################
 
-st.header("COMPETENCES")
+st.header("🛠️COMPETENCES")
 st.write("Cartographie Thematique(santé, environnement,population")
 st.write("Analyse Spatiaux-Temporelle des Maladies")
 st.write("Creation et Gestion de Base de Données Geographiques dans QGIS et ARCGIS")
@@ -42,12 +42,12 @@ st.write("Bureautique(word,excel,power point)")
 
 ###########################################
 
-st.header("EXPERIENCE")
+st.header("💼EXPERIENCE")
 st.write(" Agence National de la la Statistiquue et de la Démographie, j ai eu a travailler comme agent controleur lors du RGPH-5")
 
 ###########################################
 
-st.header("CENTRE D'INTERET")
+st.header("🎯CENTRE D'INTERET")
 st.write("Lire")
 st.write("Footbal")
 st.write("Art Martiaux")
