@@ -2,7 +2,7 @@ import streamlit as st
 st.title("Mon proforiot")
 sidebar=st.sidebar
 with sidebar:
-    st.image("badboycsd.jpeg")
+
     st.write("Prenom: Cheikh Sadibou")
     st.write("Nom: DIAKHAME")
     st.write("Adresse:Parcelles Assainies Dakar unité 14")
