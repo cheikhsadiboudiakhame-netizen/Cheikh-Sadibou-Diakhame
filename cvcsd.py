@@ -11,7 +11,7 @@ with sidebar:
 
 ########################################
 
-st.header("A PROPOS ")
+st.header("👤A PROPOS ")
 st.write("Géomaticien et Géographe de la santé,specialisé dans l'analyse spatiale des données sanitaires et la cartographie thématique. Je met les outils SIG au service de l'amélioration des soins, de l'analyse des inégalités territoriales de santé et de l'aide á la prise de decision.")
 
 #######################################
