@@ -3,8 +3,8 @@ st.title("Mon proforiot")
 sidebar=st.sidebar
 with sidebar:
 
-    st.write("Prenom: Cheikh Sadibou")
-    st.write("Nom: DIAKHAME")
+    st.write("Cheikh Sadibou")
+    st.write(" DIAKHAME")
     st.write("Adresse:Parcelles Assainies Dakar unité 14")
     st.write("Téléphone:784527100")
     st.write("Contact:cheikhsadiboudiakhame@gmail.com")
@@ -24,7 +24,7 @@ st.markdown("""SIG appliqué á la santé publique
 
 #######################################
 
-st.header("DIPLOMES")
+st.header("🎓DIPLOMES")
 st.write("Brevet Technicien Supérieur en géomatique")
 st.write("Licence en geographie")
 st.write("Baccalauréat")
