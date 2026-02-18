@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("Mon proforiot")
+st.title("Mon porfoliot")
 sidebar=st.sidebar
 with sidebar:
 
